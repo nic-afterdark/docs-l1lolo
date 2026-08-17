@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-2so1st.3depositcasino.co.nz/sitemap.xml
